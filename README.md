@@ -25,8 +25,8 @@
 Linux PC(OS : ubuntu 18.04)  
 
 >## 참고자료
->https://github.com/DonGikS/behavior_controller
+https://github.com/DonGikS/behavior_controller
 
->https://jisuhan.tistory.com/68#%EA%B-%B-%EA%B-%BC%EC%A-%--%EC%-C%BC%EB%A-%-C%-C%--SLAM%-C%--Navigation%EC%-D%B-%--%EC%-E%--%--%EA%B-%AC%ED%--%--%EB%--%--%EC%--%B-%--%EC%--%B-%EA%B-%B-%EC%A-%--%EC%-C%BC%EB%A-%-C%--%EB%A-%--%EB%AC%B-%EB%A-%AC%ED%--%A-%--%EC%--%--%--%EC%-E%--%EC%--%--%EB%-B%A--
+https://jisuhan.tistory.com/68#%EA%B-%B-%EA%B-%BC%EC%A-%--%EC%-C%BC%EB%A-%-C%-C%--SLAM%-C%--Navigation%EC%-D%B-%--%EC%-E%--%--%EA%B-%AC%ED%--%--%EB%--%--%EC%--%B-%--%EC%--%B-%EA%B-%B-%EC%A-%--%EC%-C%BC%EB%A-%-C%--%EB%A-%--%EB%AC%B-%EB%A-%AC%ED%--%A-%--%EC%--%--%--%EC%-E%--%EC%--%--%EB%-B%A--
 
->https://cs-kookmin-club.tistory.com/category/FOSCAR-%28Autonomous%20Driving%29/ROS%20%EC%8A%A4%ED%84%B0%EB%94%94
+https://cs-kookmin-club.tistory.com/category/FOSCAR-%28Autonomous%20Driving%29/ROS%20%EC%8A%A4%ED%84%B0%EB%94%94
