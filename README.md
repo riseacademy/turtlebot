@@ -25,4 +25,3 @@
 Linux PC(OS : ubuntu 18.04)  
 
 ## 4. 설치
-1. 
